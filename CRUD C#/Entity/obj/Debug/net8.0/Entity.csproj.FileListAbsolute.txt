@@ -12,3 +12,18 @@ C:\Users\artun\source\repos\Crud2\Entity\obj\Debug\net8.0\refint\Entity.dll
 C:\Users\artun\source\repos\Crud2\Entity\obj\Debug\net8.0\Entity.pdb
 C:\Users\artun\source\repos\Crud2\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
 C:\Users\artun\source\repos\Crud2\Entity\obj\Debug\net8.0\ref\Entity.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\bin\Debug\net8.0\Entity.deps.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\bin\Debug\net8.0\Entity.runtimeconfig.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\bin\Debug\net8.0\Entity.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\bin\Debug\net8.0\Entity.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\refint\Entity.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\Entity.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Entity\obj\Debug\net8.0\ref\Entity.dll

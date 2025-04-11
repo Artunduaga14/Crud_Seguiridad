@@ -5278,23 +5278,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\artun\\.nuget\\packages\\": {},
+    "C:\\Users\\USUARIO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\artun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\obj\\",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\artun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5309,14 +5309,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\Business.csproj"
+            "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Business\\Business.csproj"
             },
-            "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\Data.csproj"
+            "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Data\\Data.csproj"
             },
-            "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Entity.csproj"
+            "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Entity\\Entity.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Entity\\Entity.csproj"
             }
           }
         }

@@ -1,78 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\",
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\usuario\\documents\\sena\\aprendices\\crud_seguiridad\\crud c#\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\data\\formmoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|solutionrelative:data\\formmoduledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\usuario\\documents\\sena\\aprendices\\crud_seguiridad\\crud c#\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\model\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BB3DB64-3B71-4937-A43F-D3029F3E9359}|Helper\\Helper.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BB3DB64-3B71-4937-A43F-D3029F3E9359}|Helper\\Helper.csproj|solutionrelative:helper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\usuario\\documents\\sena\\aprendices\\crud_seguiridad\\crud c#\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2B19ADE8-BD89-4005-BC9C-B2AF9A0A47D1}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\data\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|solutionrelative:data\\formdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|solutionrelative:data\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\model\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\business\\itembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|solutionrelative:business\\itembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\data\\rolformpermissiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0755F891-81B8-44EB-B51C-2317394DF724}|Data\\Data.csproj|solutionrelative:data\\rolformpermissiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\business\\rolformpermissionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|solutionrelative:business\\rolformpermissionbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\dtos\\logactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\logactivitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\business\\logactivitybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A498739-6AB5-4E60-9675-A3729C715621}|Business\\Business.csproj|solutionrelative:business\\logactivitybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\model\\logactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\model\\logactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|c:\\users\\artun\\onedrive\\documentos\\crud_modelo seguridad\\crud c#\\entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EAD7BF0-9F2C-4B81-B612-44FD4F0A0200}|Entity\\Entity.csproj|solutionrelative:entity\\model\\formmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,263 +22,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RolFormPermissionData.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\RolFormPermissionData.cs",
-              "RelativeDocumentMoniker": "Data\\RolFormPermissionData.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\RolFormPermissionData.cs",
-              "RelativeToolTip": "Data\\RolFormPermissionData.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:55:22.343Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-04-11T19:31:35.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RolFormPermissionBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\RolFormPermissionBusiness.cs",
-              "RelativeDocumentMoniker": "Business\\RolFormPermissionBusiness.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\RolFormPermissionBusiness.cs",
-              "RelativeToolTip": "Business\\RolFormPermissionBusiness.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAAwLoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwE4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:55:33.721Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-04-11T19:27:17.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\appsettings.json",
               "RelativeDocumentMoniker": "Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\Sena\\Aprendices\\Crud_Seguiridad\\CRUD C#\\Web\\appsettings.json",
               "RelativeToolTip": "Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAIAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T17:49:50.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\Form.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Form.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\Form.cs",
-              "RelativeToolTip": "Entity\\Model\\Form.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:21:44.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Helper\\Program.cs",
-              "RelativeDocumentMoniker": "Helper\\Program.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Helper\\Program.cs",
-              "RelativeToolTip": "Helper\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T18:18:37.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Web\\Program.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Program.cs",
-              "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:55:29.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Entity\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:55:26.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Web.csproj",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Web.csproj",
-              "RelativeDocumentMoniker": "Web\\Web.csproj",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Web\\Web.csproj",
-              "RelativeToolTip": "Web\\Web.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T22:21:08.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\ItemBusiness.cs",
-              "RelativeDocumentMoniker": "Business\\ItemBusiness.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\ItemBusiness.cs",
-              "RelativeToolTip": "Business\\ItemBusiness.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:10:32.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ItemData.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\ItemData.cs",
-              "RelativeDocumentMoniker": "Data\\ItemData.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\ItemData.cs",
-              "RelativeToolTip": "Data\\ItemData.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAIwFMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:05:30.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LogActivity.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\LogActivity.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\LogActivity.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\LogActivity.cs",
-              "RelativeToolTip": "Entity\\Model\\LogActivity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:42:34.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormData.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\FormData.cs",
-              "RelativeDocumentMoniker": "Data\\FormData.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\FormData.cs",
-              "RelativeToolTip": "Data\\FormData.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAArwEkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:11:10.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\Item.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\Item.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\Item.cs",
-              "RelativeToolTip": "Entity\\Model\\Item.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:11:25.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\DTOs\\ItemDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\ItemDto.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\DTOs\\ItemDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\ItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:11:36.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LogActivityBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\LogActivityBusiness.cs",
-              "RelativeDocumentMoniker": "Business\\LogActivityBusiness.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Business\\LogActivityBusiness.cs",
-              "RelativeToolTip": "Business\\LogActivityBusiness.cs",
-              "ViewState": "AgIAALwAAAAAAAAAAIAwwNMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:43:06.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LogActivityDto.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\DTOs\\LogActivityDto.cs",
-              "RelativeDocumentMoniker": "Entity\\DTOs\\LogActivityDto.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\DTOs\\LogActivityDto.cs",
-              "RelativeToolTip": "Entity\\DTOs\\LogActivityDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T15:42:24.45Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "94abf755-07f6-49c3-926c-5a6647907766",
-        "Display": 0,
-        "X": 0,
-        "Y": 73,
-        "Width": 1024,
-        "Height": 619,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormModuleData.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\FormModuleData.cs",
-              "RelativeDocumentMoniker": "Data\\FormModuleData.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Data\\FormModuleData.cs",
-              "RelativeToolTip": "Data\\FormModuleData.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAuwK4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:59:00.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "FormModule.cs",
-              "DocumentMoniker": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\FormModule.cs",
-              "RelativeDocumentMoniker": "Entity\\Model\\FormModule.cs",
-              "ToolTip": "C:\\Users\\artun\\OneDrive\\Documentos\\CRUD_Modelo Seguridad\\CRUD C#\\Entity\\Model\\FormModule.cs",
-              "RelativeToolTip": "Entity\\Model\\FormModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T07:52:29.033Z",
+              "WhenOpened": "2025-04-11T19:19:57.651Z",
               "EditorCaption": ""
             }
           ]

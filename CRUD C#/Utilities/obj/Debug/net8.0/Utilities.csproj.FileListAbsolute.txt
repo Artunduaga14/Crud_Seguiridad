@@ -9,3 +9,15 @@ C:\Users\artun\source\repos\Crud2\Utilities\obj\Debug\net8.0\Utilities.dll
 C:\Users\artun\source\repos\Crud2\Utilities\obj\Debug\net8.0\refint\Utilities.dll
 C:\Users\artun\source\repos\Crud2\Utilities\obj\Debug\net8.0\Utilities.pdb
 C:\Users\artun\source\repos\Crud2\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\bin\Debug\net8.0\Utilities.deps.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\bin\Debug\net8.0\Utilities.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\bin\Debug\net8.0\Utilities.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\Utilities.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Utilities\obj\Debug\net8.0\ref\Utilities.dll

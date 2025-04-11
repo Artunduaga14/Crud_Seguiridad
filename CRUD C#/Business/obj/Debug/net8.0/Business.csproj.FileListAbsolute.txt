@@ -17,3 +17,23 @@ C:\Users\artun\source\repos\Crud2\Business\obj\Debug\net8.0\Business.dll
 C:\Users\artun\source\repos\Crud2\Business\obj\Debug\net8.0\refint\Business.dll
 C:\Users\artun\source\repos\Crud2\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\artun\source\repos\Crud2\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Business.deps.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Business.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Business.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Data.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Entity.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Utilities.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Data.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Utilities.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\bin\Debug\net8.0\Entity.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.sourcelink.json
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.csproj.Up2Date
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\Business.pdb
+C:\Users\USUARIO\Documents\Sena\Aprendices\Crud_Seguiridad\CRUD C#\Business\obj\Debug\net8.0\ref\Business.dll

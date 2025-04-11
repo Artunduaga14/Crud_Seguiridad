@@ -74,7 +74,7 @@ builder.Services.AddScoped<ZoneBusiness>();
 
 
 
-// Agregar DbContext
+// Agregar DbContext conexion a base de datos
 builder.Services.AddDbContext<ApplicationDbContext>(opciones =>
     opciones.UseSqlServer("name=DefaultConnection"));
 
